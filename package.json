@@ -6,6 +6,10 @@
     "build": "parcel build index.html"
   },
   "devDependencies": {
+    "@parcel/transformer-sass": "^2.7.0",
     "parcel": "^2.7.0"
+  },
+  "dependencies": {
+    "sass": "^1.56.0"
   }
 }
